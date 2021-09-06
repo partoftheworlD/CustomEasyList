@@ -9,5 +9,7 @@ yandex.ru##html > body > div:nth-of-type(4) > div > div:nth-of-type(1)
 4anime-tv.com##.stream-item-above-post-content.stream-item > div
 9animetv.su##center
 9animetv.su##.entry-content > div
-! блокировка окна с купонами
+! блокировка окна с купонами, затемненный фон необходим, чтобы с триггерить подгрузку остальной части страницы
 aliexpress.ru, aliexpress.com##div[class*="CouponPopup_CouponPopup__dialog"]
+! chess trial popup
+www.chess.com##div[class*="trial"]
