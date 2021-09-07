@@ -10,3 +10,5 @@ aliexpress.ru, aliexpress.com##div[class*="CouponPopup_CouponPopup__dialog"]
 ! chess trial popup
 chess.com##div[class*="trial"]
 chess.com##a[href*="membership"]
+! isthereanydeal promo
+isthereanydeal.com##a[id="promo"]
